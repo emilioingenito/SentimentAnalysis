@@ -1,13 +1,12 @@
 # Deep Sentiment Analysis Project
-
-## Project Overview
+## Project Overview
 This project delves into the realm of sentiment analysis, specifically focusing on three-class sentiment classification of Twitter data.
-
-## Project Highlights
-* Data Analysis and Preprocessing: Extensive data analysis was carried out, involving data distribution analysis, data cleaning, preprocessing, and feature extraction. This phase also included stopword removal and text normalization for enhancing the quality of the dataset.
-Word cloud of negative tweets             |  Word cloud of positive tweets
+Word cloud for negative Tweets              |         Word cloud for positive Tweets  
 :-------------------------:|:-------------------------:
-![](wordCloudA.png)  |  ![](wordCloudB.png)
+![](wourdCloudA.png)  |  ![](wordCloudB.png)
+
+## Project Highlights
+* Data Analysis and Preprocessing: Extensive data analysis was carried out, involving data distribution analysis, data cleaning, preprocessing, and feature extraction. This phase also included stopword removal and text normalization for enhancing the quality of the dataset.
 
 * Text Vectorization Techniques: Various text vectorization techniques were explored, including TF-IDF, Bag of Words, Word2Vec, and BERT embeddings. Additionally, one-hot encoding was applied for categorical data derived from dates and times, ensuring comprehensive data representation.
 
